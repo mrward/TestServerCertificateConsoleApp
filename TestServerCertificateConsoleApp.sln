@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestServerCertificateConsoleApp", "TestServerCertificateConsoleApp\TestServerCertificateConsoleApp.csproj", "{04BBA81C-32E0-4C2C-9BDC-C2D6876DD9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04BBA81C-32E0-4C2C-9BDC-C2D6876DD9AF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{04BBA81C-32E0-4C2C-9BDC-C2D6876DD9AF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{04BBA81C-32E0-4C2C-9BDC-C2D6876DD9AF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{04BBA81C-32E0-4C2C-9BDC-C2D6876DD9AF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
